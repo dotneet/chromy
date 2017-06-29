@@ -1,5 +1,5 @@
-const Chromy = require('../src')
-const {TimeoutError} = require('../src/error')
+const Chromy = require('../')
+const {TimeoutError} = require('../dist/error')
 const assert = require('assert')
 
 describe('wait', function() {

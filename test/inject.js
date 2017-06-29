@@ -1,4 +1,4 @@
-const Chromy = require('../src')
+const Chromy = require('../')
 const assert = require('assert')
 
 describe('inject()', function() {

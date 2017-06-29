@@ -1,4 +1,4 @@
-const Chromy = require('../src')
+const Chromy = require('../')
 const {TimeoutError} = require('../src/error')
 const assert = require('assert')
 
